@@ -1,0 +1,11 @@
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\bin\Debug\netcoreapp3.0\99Bottles.exe
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\bin\Debug\netcoreapp3.0\99Bottles.deps.json
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\bin\Debug\netcoreapp3.0\99Bottles.runtimeconfig.json
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\bin\Debug\netcoreapp3.0\99Bottles.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\bin\Debug\netcoreapp3.0\99Bottles.dll
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\bin\Debug\netcoreapp3.0\99Bottles.pdb
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\obj\Debug\netcoreapp3.0\99Bottles.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\obj\Debug\netcoreapp3.0\99Bottles.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\obj\Debug\netcoreapp3.0\99Bottles.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\obj\Debug\netcoreapp3.0\99Bottles.dll
+C:\Users\Daniel\source\repos\99Bottles\99Bottles\obj\Debug\netcoreapp3.0\99Bottles.pdb
